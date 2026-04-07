@@ -32,8 +32,15 @@ ___
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/MasrurAhmed64782/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+🔹  **[Vulnerability Management Program Implementation](https://github.com/MasrurAhmed64782/vulnerability-management-program)**
+
+🔹  **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+Focus Areas:
+
+* System hardening and secure configuration  
+* Risk-driven remediation and mitigation processes  
+* Hands-on vulnerability management and reduction  
 
 ## 🚨 Threat Hunting and Security Operations
 
