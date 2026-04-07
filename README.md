@@ -1,7 +1,34 @@
 # Masrur Ahmed: IT & Cybersecurity Portfolio
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+A collection of labs, threat hunts, and cloud infrastructure projects built through hands-on practice.
 
+I learn by building and testing.
+
+This portfolio shows how I design and secure cloud environments, monitor activity, investigate behavior, and reduce risk through practical controls.
+It reflects how I approach cloud security with structure, clarity, and long-term impact in mind.
+
+___
+# 🎯 What This Portfolio Demonstrates
+Hands-on security engineering across cloud and infrastructure environments
+* End-to-end coverage: provisioning, identity and access management, logging, and detection
+* Documented configurations with clear reasoning and reproducible steps
+* Continuous improvement through iterative lab builds and security testing
+
+___
+ 
+# Enterprise Infrastructure & Identity
+🛡️ Infrastructure & Identity Security
+
+🔹 Active Directory & Network Security Lab  
+Windows Server 2022 | Windows 11 |  
+
+* Active Directory domain deployment with integrated DNS  
+* Network segmentation with controlled internal communication  
+* Domain-joined endpoints with enforced group policies  
+* Centralized logging and audit policy configuration  
+* Built as a baseline for detection, monitoring, and security testing  
+
+___
 
 ## ⚠️ Vulnerability Management Projects
 
