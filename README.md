@@ -36,7 +36,7 @@ ___
 
 🔹  **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-🔹 **[Windows 11 STIG Remediations (PowerShell)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+🔹 **[Windows 11 STIG Remediations (PowerShell)](https://github.com/MasrurAhmed64782/MasrurAhmed64782/tree/main/STIGS)**
 
 Focus Areas:
 
