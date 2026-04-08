@@ -36,6 +36,8 @@ ___
 
 🔹  **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
+🔹 **[Windows 11 STIG Remediations (PowerShell)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
 Focus Areas:
 
 * System hardening and secure configuration  
