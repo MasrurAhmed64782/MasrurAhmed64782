@@ -44,7 +44,16 @@ Focus Areas:
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MasrurAhmed64782/threat-hunting-scenario-tor)**
+🔹 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MasrurAhmed64782/threat-hunting-scenario-tor)**
+  
+  Focus areas:
+
+* BitLocker enforcement and security controls
+* Audit policy configuration and compliance
+* Security hardening (e.g., camera, NetBIOS, IE11)
+* Vulnerability reduction and remediation
+* System hardening and secure configuration
+* Risk-driven remediation and mitigation processes
 
 <hr/>
 
