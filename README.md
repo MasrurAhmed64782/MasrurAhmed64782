@@ -54,6 +54,18 @@ Focus Areas:
 * Vulnerability reduction and remediation
 * System hardening and secure configuration
 * Risk-driven remediation and mitigation processes
+___
+
+## Skills Developed
+
+| **Area**                | **Focus**                                        |
+|-------------------------|--------------------------------------------------|
+| **Identity & Access**    | Active Directory, DNS fundamentals               |
+| **Infrastructure**       | Network segmentation, trust boundaries           |
+| **Vulnerability Mgmt**   | STIGs, remediation logic                         |
+| **Threat Hunting**       | ATT&CK thinking, investigation flow              |
+| **Logging & Auditing**   | Windows audit policy                             |
+| **Automation**           | PowerShell hardening scripts                     |
 
 <hr/>
 
