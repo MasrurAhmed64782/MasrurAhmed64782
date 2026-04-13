@@ -45,6 +45,8 @@ Focus Areas:
 ## 🚨 Threat Hunting and Security Operations
 
 🔹 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MasrurAhmed64782/threat-hunting-scenario-tor)**
+
+🔹 **[Threat Hunt Report – (Scattered Spider BEC Investigation)](https://github.com/MasrurAhmed64782/SCATTERED-INVOICE-THREAT-HUNT-REPORT)**
   
   Focus areas:
 
