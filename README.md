@@ -26,8 +26,19 @@ Windows Server 2022 | Windows 11 |
 * Network segmentation with controlled internal communication  
 * Domain-joined endpoints with enforced group policies  
 * Centralized logging and audit policy configuration  
-* Built as a baseline for detection, monitoring, and security testing  
+* Built as a baseline for detection, monitoring, and security testing
+___
+## 🔐 Identity & Access Management (Azure Entra ID)
 
+Cloud identity engineering focused on least privilege access, scoped administration, and Zero Trust principles using Microsoft Azure Entra ID.
+
+🔹 [Azure IAM Portfolio](https://github.com/MasrurAhmed64782/azure-iam-portfolio)
+
+Focus Areas:
+- Scoped Role-Based Access Control (RBAC) using Administrative Units
+- Conditional Access policies for risk-based device and user enforcement
+- Identity governance and delegated administration across organizational boundaries
+- Least privilege enforcement and Zero Trust identity principles
 ___
 
 ## ⚠️ Vulnerability Management Projects
