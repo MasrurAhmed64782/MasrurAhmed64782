@@ -28,11 +28,12 @@ Windows Server 2022 | Windows 11 |
 * Centralized logging and audit policy configuration  
 * Built as a baseline for detection, monitoring, and security testing
 ___
-## 🔐 Identity & Access Management (Azure Entra ID)
+## 🔐 Identity & Access Management
 
-Cloud identity engineering focused on least privilege access, scoped administration, and Zero Trust principles using Microsoft Azure Entra ID.
+Cloud identity engineering focused on least privilege access, scoped administration, and Zero Trust principles across Microsoft Azure Entra ID and Okta.
 
-🔹 [Azure IAM Portfolio](https://github.com/MasrurAhmed64782/azure-iam-portfolio)
+- [Azure IAM Portfolio](your-azure-link-here)
+- [Okta IAM Portfolio](https://github.com/MasrurAhmed64782/okta-iam-portfolio)
 
 Focus Areas:
 - Scoped Role-Based Access Control (RBAC) using Administrative Units
